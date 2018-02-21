@@ -6,3 +6,5 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+苫小牧高専のH棟4階です
