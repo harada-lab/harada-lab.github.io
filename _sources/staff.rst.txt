@@ -6,3 +6,7 @@
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+原田恵雨
+--------
+この研究室にいます
